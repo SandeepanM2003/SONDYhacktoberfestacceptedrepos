@@ -55,3 +55,4 @@ Do help the community by adding more **good quality, beginner-friendly** Hackotb
 ## Maintainer
 - Sandeepan Mohanty [LinkedIn](https://www.linkedin.com/in/sandeepan-mohanty-979908204?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bo6ONfl5uTpupDW5q%2BfWvzw%3D%3D
 ) 
+ <a href="mailto:sandimohanty@gmail.com?subject=Hello%20Sandeepan,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
