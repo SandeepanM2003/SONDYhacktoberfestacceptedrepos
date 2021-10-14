@@ -43,14 +43,13 @@ Do help the community by adding more **good quality, beginner-friendly** Hackotb
 | 05. | (https://github.com/rjkalash/hacktoberfest2021) 
 | 06. | (https://github.com/sonumahajan/All_Program_helper) 
 | 07. | (https://github.com/iedcbootcampcec/Hacktoberfest21-letshack.git) 
-| 08. | [Patterns](https://github.com/hhhrrrttt222111/Patterns) 
-| 09. | [open-source-contribution](https://github.com/Shubhamrawat5/open-source-contribution) 
-| 10. | [Hacktoberfest-2021](https://github.com/vijaygupta18/Hacktoberfest-2021) 
-| 11. | [hacktoberfest_2021](https://github.com/viralvaghela/hacktoberfest_2021) 
-| 12. | [Hacktoberfest2021](https://github.com/Sangwan5688/Hacktoberfest2021) 
-| 13. | [Hacktoberfest-Guide](https://github.com/avinash201199/Hacktoberfest-Guide) 
-| 14. | [HactoberFest21](https://githttps://github.com/asAshutosh/Hacktoberfest-Acceptedhub.com/sudip-mondal-2002/HactoberFest21) 
-| 15. | [hacktoberfest2021](https://github.com/open-for-everyone/hacktoberfest2021) | Any tech | Excluded |
+| 08. | (https://github.com/krimanisha/Hacktoberfest21.git) 
+| 09. | (https://github.com/Stapan17/HackToBerFest21.git) 
+| 10. | (https://github.com/wbhoomika/python4beginners-Hacktoberfest21.git) 
+| 11. | (https://github.com/viralvaghela/hacktoberfest_2021.git) 
+| 12. | (https://github.com/gsoftsolutionslk/Hacktoberfest21.git) 
+
+
 
 ---
 ## Maintainer
