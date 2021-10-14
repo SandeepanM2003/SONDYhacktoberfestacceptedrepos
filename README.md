@@ -34,9 +34,9 @@ For More related FAQs visit [here.](https://hacktoberfest.digitalocean.com/faq)
 
 ## List of Good Beginner Friendly Repos to get your first PR:
 Do help the community by adding more **good quality, beginner-friendly** HackotberFest Repos here👇👇
-| S. No. | Project | Domains | Status |
-| ---- |--------- | --------- | ------ |
-| 01. | [Hacktoberfest21](https://github.com/manisha069/HacktoberFest21)
+| S. No. | Project | 
+| ---- |--------- |
+| 01. | (https://github.com/manisha069/HacktoberFest21)
 | 02. | [Hacktoberfest-21-Open-First-PR](https://github.com/iamdevvalecha/Hacktoberfest-21-Open-First-PR) 
 | 03. | [make-pull-request](https://github.com/twowaits/make-pull-request) 
 | 04. | [Hacktoberfest2k21](https://github.com/fineanmol/Hacktoberfest2k21) 
